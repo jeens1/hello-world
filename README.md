@@ -15,4 +15,5 @@ mark down language를 쓴다.
 <iframe width="500" height="1035" src="https://www.youtube.com/embed/8DcrMJ4_7Uc?list=RD8DcrMJ4_7Uc" title="여름이니까 시원하고 청량한 노래로 기분 업☀️🌊 𝗦𝘂𝗺𝗺𝗲𝗿 𝗽𝗼𝗽" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ###referece
-[네이버] (www.naver.com)
+1. [네이버] (www.naver.com) (br)
+2. [구글] (www.google.com) (br)
