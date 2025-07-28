@@ -17,3 +17,11 @@ mark down language를 쓴다.
 ###referece
 1. [네이버](https://www.naver.com)(br)
 2. [구글](https://www.google.com)(br)
+
+###개발자 소
+|제목|내용|설명|
+|------|---|---|
+|이름|백승진|   |
+|기술|frondend|html,css,js,kotlin|
+|   |backend|django, flask|
+|   |database|oracle|
